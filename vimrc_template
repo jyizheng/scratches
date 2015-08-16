@@ -1,0 +1,7 @@
+set modeline
+set nu
+set hlsearch
+hi Search guibg=LightRed
+set backspace=indent,eol,start
+syntax on
+:color desert 
